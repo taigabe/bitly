@@ -28,7 +28,7 @@ Gem::Specification.new do |spec|
   end
   spec.require_paths = ["lib"]
 
-  spec.required_ruby_version = ">= 2.3.0"
+  spec.required_ruby_version = ">= 2.2.3"
 
   spec.add_runtime_dependency "oauth2", "< 2.1", ">= 0.5.0"
 
